@@ -8,3 +8,7 @@ body {
     border: 2px solid blue;
 }
 
+h1 {
+    font-size: 150%;
+    border: 5px dashed pink;
+}
