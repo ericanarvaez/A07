@@ -17,3 +17,11 @@ centered{
   margin-left: auto;
   margin-right: auto;
 }
+img  {
+	float: left;
+	margin: 0 1em;
+}
+p {
+	margin: 0;
+	padding-bottom: .5em;
+}
