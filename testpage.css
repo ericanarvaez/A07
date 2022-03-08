@@ -13,3 +13,7 @@ h1 {
 	font-size: 200%;
 	color: navy;
 }
+centered{
+  margin-left: auto;
+  margin-right: auto;
+}
